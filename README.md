@@ -23,6 +23,6 @@ The abbreviation of LIME itself should give you an intuition about the core idea
 Links: 
 1. https://insights.sei.cmu.edu/blog/what-is-explainable-ai/  -- XAI
 
-2. https://towardsdatascience.com/interpreting-image-classification-model-with-lime-1e7064a2f2e5#:~:text=LIME%20stands%20for%20Local%20Interpretable,data%2C%20images%2C%20or%20texts. -- LIME Image Classification
+2. https://towardsdatascience.com/interpreting-image-classification-model-with-lime-1e7064a2f2e5#:~:text=LIME%20stands%20for%20Local%20Interpretable,data%2C%20images%2C%20or%20texts. -- LIME Image Explainer
 
-3. https://medium.datadriveninvestor.com/xai-with-lime-for-cnn-models-5560a486578  - LIME For digit Classificaction
+3. https://medium.datadriveninvestor.com/xai-with-lime-for-cnn-models-5560a486578  - LIME Explainer for digit Classificaction
